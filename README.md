@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @uricohen1112
+- 👀 I’m interested in everything embedded. I love playing around with FPGAs and solving difficult puzzles. 
